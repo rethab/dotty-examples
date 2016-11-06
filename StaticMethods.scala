@@ -13,7 +13,7 @@ object Singleton {
    * fields an methods are not compiled to
    * statics, but are singleton objects.
    *
-   * from Daniel C Sobral's comment on SO:
+   * from Daniel C Sobral's comment on SO (WRT old Scala):
    *  "Singletons are full objects like any
    *   other: they belong to a class, may have
    *   interfaces, may have a constructor,
