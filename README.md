@@ -4,7 +4,7 @@ Meant to demonstrate all the implemented features listed in https://github.com/l
 
 Use the instructions in https://github.com/smarter/dotty-example-project to build dotty
 
-## Features
+## Examples
 - Union, Intersection and Literal singleton types
 - [Trait Parameters](TraitParameters.scala)
 - @Static methods and fields
