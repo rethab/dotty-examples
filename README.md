@@ -6,13 +6,10 @@ Use the instructions in https://github.com/smarter/dotty-example-project to buil
 
 ## Features
 - Union, Intersection and Literal singleton types
-- Fast compilation(phase fusion)
-- [Trait Parameters!](TraitParameters.scala)
+- [Trait Parameters](TraitParameters.scala)
 - @Static methods and fields
-- Colored Repl
-- Sbt incremental build
 - Non-blocking lazy vals
-- Multiverse equality
+- [Multiverseal Equality](MultiversalEquality.scala) [Proposal](https://github.com/lampepfl/dotty/issues/1247)
 - Option-less pattern matching(based on name-based patmat)
 - Function arity adaptation
 - Exhaustivity checks in pattern matching
