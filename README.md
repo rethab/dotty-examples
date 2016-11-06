@@ -6,7 +6,7 @@ Use the instructions in https://github.com/smarter/dotty-example-project to buil
 
 ## Examples
 - Union, Intersection and Literal singleton types
-- [Trait Parameters](TraitParameters.scala)
+- [Trait Parameters](TraitParameters.scala) [SIP](http://docs.scala-lang.org/sips/pending/trait-parameters.html)
 - @Static methods and fields
 - Non-blocking lazy vals
 - [Multiverseal Equality](MultiversalEquality.scala) [Proposal](https://github.com/lampepfl/dotty/issues/1247)
