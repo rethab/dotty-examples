@@ -3,7 +3,7 @@ object Main extends App {
 
   println("int equal to float? " + (1 == 1f))
 
-  /* feature is generall opt-in. if there is a
+  /* feature is generally opt-in. if there is a
    * corresponding 'Eq',  the stronger checks 
    * are enabled (backwards compatibility).
    *
