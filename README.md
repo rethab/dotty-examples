@@ -4,6 +4,8 @@ Meant to demonstrate all the implemented features listed in https://github.com/l
 
 Use the instructions in https://github.com/smarter/dotty-example-project to build dotty
 
+More examples may be found in https://d-d.me/talks/scalaworld2015/#/
+
 ## Examples
 - [Union](UnionTypes.scala), [Intersection](IntersectionTypes.scala) and Literal singleton types [Blog Post by Sergio De Simone](https://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
 - [Trait Parameters](TraitParameters.scala) [SIP](http://docs.scala-lang.org/sips/pending/trait-parameters.html)
