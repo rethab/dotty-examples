@@ -5,7 +5,7 @@ Meant to demonstrate all the implemented features listed in https://github.com/l
 Use the instructions in https://github.com/smarter/dotty-example-project to build dotty
 
 ## Examples
-- Union, Intersection and Literal singleton types
+- Union, Intersection and Literal singleton types [Blog Post by Sergio De Simone](https://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
 - [Trait Parameters](TraitParameters.scala) [SIP](http://docs.scala-lang.org/sips/pending/trait-parameters.html)
 - [@Static Methods and Fields](StaticMethods.scala) [SIP](https://github.com/DarkDimius/scala.github.com/blob/664bc155d57af49ec4eb5eb7a7fbb078042d77f5/sips/pending/_posts/2016-01-11-static-members.md)
 - Non-blocking lazy vals
