@@ -15,8 +15,9 @@ object Main extends App {
   // val stringInt: Boolean = "foo" == 1
 
   /* tell the compiler that strings and booleans
-   * marking it with the 'Eq' typeclass. will
-   * still return false though */
+   * can be checked for equality by marking it 
+   * with the 'Eq' typeclass. will still return
+   * false though */
   implicit def eqSB: Eq[String, Boolean] = Eq
   println("string equal to boolean? " + ("yes" == true))
 
