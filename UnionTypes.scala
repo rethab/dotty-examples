@@ -16,6 +16,9 @@ object Hello extends App {
       case n: Int => println(s"hello, number $n")
     }
 
+  // the type in scala would have been Any
+  val ifElse: String | Int = if (1 == 2) "foo" else 2
+
   // the type in scala would have been Seq[Any]
   val xs: Seq[String | Int] = Seq("foo", 1)
 
